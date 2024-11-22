@@ -1,0 +1,6 @@
+[owner]
+name = "malloc-nbytes"
+github = "https://github.com/malloc-nbytes/earl-module-sstream.git"
+
+[config]
+prefix = "sstream"
