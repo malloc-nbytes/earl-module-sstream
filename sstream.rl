@@ -1,5 +1,6 @@
 module SStream
 
+### Class
 #-- Name T
 #-- Parameters: content: str
 #-- Description:
@@ -16,6 +17,7 @@ module SStream
         || content[0] == '\r';
     }
 
+    ### Method
     #-- Name: adv
     #-- Returns: str
     #-- Description:
@@ -39,4 +41,6 @@ module SStream
 
         buf;
     }
+    ### End
 }
+### End
