@@ -1,7 +1,7 @@
 module SStream
 
 ### Class
-#-- Name T
+#-- Name: T
 #-- Parameters: content: str
 #-- Description:
 #--   A class that takes a string `content` and will
